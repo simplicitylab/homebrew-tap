@@ -1,3 +1,3 @@
 # Homebrew-tap
 
-Central repository of homebrew repository
+Central repository of homebrew formulas
